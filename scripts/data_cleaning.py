@@ -1,3 +1,4 @@
+"""""
 import pandas as pd
 import os
 
@@ -127,3 +128,11 @@ channel_rates.to_csv(
 )
 
 print("Cleaning completed successfully!")
+
+"""
+
+print("\nCleaned Campaign Performance:")
+print(campaign_performance.dtypes)
+
+print("\nCleaned Campaign Meta:")
+print(campaign_meta.dtypes)
