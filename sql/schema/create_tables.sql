@@ -1,4 +1,5 @@
 
+
 -- Campaign Performance (Fact Table)
 
 
@@ -15,10 +16,13 @@ CREATE TABLE campaign_performance (
     enrollments INTEGER,
     cost REAL,
     revenue REAL,
-    region TEXT
+    region TEXT,
+
+    FOREIGN KEY (campaign_id)
+        REFERENCES campaign_meta(campaign_id)
 );
 
-
+/*
 -- Campaign Metadata (Dimension Table)
 
 
@@ -44,3 +48,5 @@ CREATE TABLE channel_rates (
     avg_cpc REAL,
     remarks TEXT
 );
+*/
+
