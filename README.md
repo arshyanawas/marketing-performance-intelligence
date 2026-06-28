@@ -1957,25 +1957,7 @@ By integrating multiple stages of the analytics lifecycle, the project showcases
 
 ---
 
-# Skills Demonstrated
 
-This project highlights a broad range of technical and analytical skills relevant to Data Analyst, Business Analyst, and BI Analyst roles.
-
-| Category              | Skills                                                                          |
-| --------------------- | ------------------------------------------------------------------------------- |
-| Programming           | Python                                                                          |
-| Data Manipulation     | Pandas                                                                          |
-| Database Management   | SQLite                                                                          |
-| Querying              | SQL                                                                             |
-| Data Cleaning         | Missing value handling, type conversion, data standardization                   |
-| Data Visualization    | Matplotlib                                                                      |
-| Business Intelligence | Power BI                                                                        |
-| Data Modeling         | Relational database design                                                      |
-| Analytics             | KPI development, funnel analysis, ROI analysis, campaign performance evaluation |
-| Version Control       | Git, GitHub                                                                     |
-| Documentation         | Technical documentation, business storytelling                                  |
-
----
 
 # Installation
 
@@ -2081,68 +2063,15 @@ These enhancements would transition the project from descriptive analytics towar
 
 ---
 
-# Learning Outcomes
 
-This project demonstrates practical experience across the complete analytics lifecycle, including:
 
-* Working with raw business datasets.
-* Designing reproducible data preparation workflows.
-* Writing analytical SQL queries to solve business problems.
-* Building effective visualizations to communicate insights.
-* Creating executive dashboards for business stakeholders.
-* Translating technical findings into actionable recommendations.
-
-It reflects the type of work commonly performed by Data Analysts and Business Intelligence professionals in production environments.
-
----
-
-# Author
-
-## Arshya Nawas
-
-**Aspiring Data Analyst | Business Intelligence Enthusiast | AI & Data Science Graduate**
-
-This project was developed as part of a professional analytics portfolio to demonstrate practical skills in data preparation, SQL analysis, business intelligence, and data storytelling.
 
 ### Connect
 
-> Replace the placeholders below with your actual profile links.
 
-* **GitHub:** https://github.com/your-username
-* **LinkedIn:** https://linkedin.com/in/your-profile
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **GitHub:** https://github.com/arshyanawas
+* **LinkedIn:** https://linkedin.com/in/arshyanawas
+* **Email:** arshyanawas.ai@gmail.com
 
----
-
-# License
-
-This project is intended for educational and portfolio purposes.
-
-You are welcome to explore the repository, review the implementation, and use it as a learning resource. If you build upon this work, appropriate attribution is appreciated.
-
----
-
-# Acknowledgements
-
-This project would not have been possible without the open-source tools and technologies that support modern analytics workflows.
-
-Special thanks to:
-
-* Python Community
-* Pandas Development Team
-* SQLite
-* Microsoft Power BI
-* Matplotlib
-* GitHub
-
----
-
-## Final Thoughts
-
-Data becomes valuable only when it enables better decisions.
-
-The **Marketing Performance Intelligence Dashboard** demonstrates how raw marketing data can be transformed into meaningful business intelligence through a structured analytics workflow. By combining data engineering, SQL analytics, visualization, and interactive reporting, the project delivers insights that support smarter marketing investments, improved campaign performance, and informed executive decision-making.
-
-From data cleaning to executive dashboards, this project reflects a complete analytics journey and serves as a practical demonstration of the technical and business skills expected in modern Data Analyst and Business Intelligence roles.
 
 
